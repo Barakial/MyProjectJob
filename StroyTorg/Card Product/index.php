@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
-
+    //aaa comet
     <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="owlcarousel/owl.carousel.min.js"></script>
@@ -32,7 +32,6 @@
                         <a data-toggle="tab" href="#menu2">Трубы</a>
                     </li>
                 </ul>
-
                 <div class="tab-content-categories">
                     <div id="home" class="tab-pane-categories fade in active">
                         <div class="owl-carousel">
