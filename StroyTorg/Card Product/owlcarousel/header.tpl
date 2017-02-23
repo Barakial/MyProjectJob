@@ -162,7 +162,7 @@
     <div class="row">
       <div class="col-lg-2 col-sm-3 col-xs-3 logo">
         <div id="logo">
-          <?php if ($_SERVER['REQUEST_URI'] == '/' || $_SERVER['REQUEST_URI'] == '/index.php?route=common/home') { ?>
+          <?php if ($_SERVER['REQUEST_URI'] == '/' || $_SERVER['REQUEST_URI'] == '/index.html?route=common/home') { ?>
             <img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" />
           <?php } else { ?>
             <a href="<?php echo $home; ?>">
